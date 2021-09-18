@@ -13,8 +13,8 @@ Coming soon
 | [Web3 Mastermind Groups PM](https://github.com/Web3-Mastermind-Groups/pm) | [stickykeys](https://twitter.com/v_stickykeys) | "Vote mining" protocol for off-chain voting and on-chain tallying |
 
 # Get project feedback
-1. Create an issue titled `Idea: <your_project_title>`
-2. In the body of the issue describe your idea and particular aspects you want feedback on
+1. Create a [new discussion post](https://github.com/FestivalLabs/bloom-consensys-academy/discussions/new) labeled `idea`
+2. In the body of the post describe your idea and particular aspects you want feedback on
 
 # Add your project
 
